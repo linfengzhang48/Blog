@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Rick_Zhang's blog
+在下在试了很多次后终于创建了属于自己的博客，实属不易，所以第一稿就先中文写了。
+##原因
+建立属于自己的博客原因有很多，会在下面慢慢论述。<br>其中最主要的原因就是想记录一些自己在学习编程途中的一些想法。然后能加深自己的印象，以便在遇到相似问题的时候能提高效率。
+<br>第二就是能把自己的一些代码写出来，希望大神能给一些修改的建议，有一个实力的提升。  
+第三就是顺便找实习或工作的时候，能体现自己的所思所想，让别人能更好的了解自己的实力与不足。（毕竟自己实力还很弱，哈哈哈！）
 
-You can use the [editor on GitHub](https://github.com/linfengzhang48/Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linfengzhang48/Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 本博客中的主要内容
+本人是一名计算机工程中边缘硬件的学生，所以高级的编程语言就接触过C和Python。写C的代码已经找不到了，所以现在主要是Python的内容。然后硬件方面学了少量汇编，stm32中C的及Verilog的编程。硬件以stm32f0的C为主
+## Python
+## 硬件方面的编程
